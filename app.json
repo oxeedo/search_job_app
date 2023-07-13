@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Search_app",
+    "slug": "Search_app",
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
